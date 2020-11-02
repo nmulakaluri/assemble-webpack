@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raviroshan/assemble-webpack.git"
+    "url": "https://github.com/nmulakaluri/assemble-webpack-new.git"
   },
-  "author": "Ravi Roshan",
+  "author": "Venkata Mulakaluri",
   "license": "MIT",
   "dependencies": {
     "assemble": "^0.24.3",
