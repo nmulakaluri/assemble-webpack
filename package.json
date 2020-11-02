@@ -1,6 +1,6 @@
 {
-  "name": "assemble-webpack",
-  "version": "3.1.2",
+  "name": "assemble-webpack-new",
+  "version": "1.0.0",
   "description": "Webpack Loader + Plugin for Assemble.io handlebar compilation",
   "main": "index.js",
   "scripts": {
